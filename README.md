@@ -4,6 +4,6 @@
 ### 🏋️‍♂️ Currently grinding on LeetCode, CodeChef and CodeForces
 ### 📫 Reach me at: ojaswi1807@gmail.com
 ### 😄 Pronouns: He/Him
-### ⚡ Lil Extra: I am a guitarist, singer and a avid basketball player
+### ⚡ Lil Extra: I am a guitarist, singer and an avid basketball player
 
 
