@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML<br>🌱 Learning Java, R and Python for AI<br>🏋️‍♂️ Currently grinding on LeetCode, CodeChef and CodeForces<br>📫 Reach me at: ojaswi1807@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Lil Extra: I am a guitarist, singer and an avid basketball player
+🔭 I’m currently working on AI/ML<br>🌱 Learning Java, R and Python for AI<br>🏋️‍♂️ Grinding on LeetCode, CodeChef and CodeForces<br>📫 Reach me at: ojaswi1807@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Lil Extra: I am a guitarist, singer and an avid basketball player
 
 
 # 💻 Tech Stack:
